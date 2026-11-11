@@ -1,0 +1,108 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    /* AVERXON Design System v2.2 (AVX-DS-022) — Provisional Logo-Derived Palette
+       Note: Sampled from owner-supplied logo reference; awaiting official SVG/PNG source vector to lock final stops. */
+    --avx-navy-950: #030237;
+    --avx-obsidian: #090B16;
+    --avx-slate-900: #151729;
+    --avx-slate-800: #22253A;
+    --avx-amber-500: #FDB001;
+    --avx-flame-500: #FF6924;
+    --avx-violet-500: #8A45CD;
+    --avx-blue-500: #087BE6;
+    --avx-cyan-400: #01BEF5;
+    --avx-white: #F5F5FA;
+    --avx-muted: #B6B9C9;
+    --avx-border: #30344A;
+
+    /* Signature Brand Gradient & Surface Glow (decorative accents only; never used as body text container) */
+    --avx-brand-gradient: linear-gradient(
+      100deg,
+      #FDB001 0%,
+      #FF6924 20%,
+      #8A45CD 48%,
+      #087BE6 75%,
+      #01BEF5 100%
+    );
+    --avx-surface-glow: radial-gradient(
+      circle at 50% 0%,
+      rgba(138, 69, 205, 0.22),
+      rgba(1, 190, 245, 0.08) 45%,
+      transparent 72%
+    );
+
+    /* shadcn/ui Semantic Variable Mapping (design.md Section 2.4) */
+    --background: #030237;
+    --foreground: #F5F5FA;
+    --card: #151729;
+    --card-foreground: #F5F5FA;
+    --popover: #151729;
+    --popover-foreground: #F5F5FA;
+    --elevated: #22253A;
+    --elevated-foreground: #F5F5FA;
+    --primary: #FDB001;
+    --primary-surface: #087BE6;
+    --primary-hover: #01BEF5;
+    --primary-foreground: #030237;
+    --secondary: #22253A;
+    --secondary-foreground: #F5F5FA;
+    --muted: #151729;
+    --muted-foreground: #B6B9C9;
+    --accent: #8A45CD;
+    --accent-foreground: #F5F5FA;
+    --border: #30344A;
+    --input: #30344A;
+    --ring: #01BEF5;
+    --radius: 0.75rem;
+  }
+
+  * {
+    border-color: var(--border);
+    box-sizing: border-box;
+  }
+
+  html {
+    background-color: var(--background);
+    color: var(--foreground);
+    scroll-behavior: smooth;
+    overflow-x: clip;
+  }
+
+  body {
+    background-color: var(--background);
+    background-image: radial-gradient(
+      circle at 50% 0%,
+      rgba(138, 69, 205, 0.14),
+      rgba(9, 11, 22, 0.92) 60%,
+      #030237 100%
+    );
+    color: var(--foreground);
+    font-family: var(--font-poppins), system-ui, -apple-system, sans-serif;
+    line-height: 1.65;
+    min-height: 100vh;
+    overflow-x: clip;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}
+
+.avx-brand-rule {
+  background-image: var(--avx-brand-gradient);
+}
+
+.avx-surface-glow {
+  background-image: var(--avx-surface-glow);
+}

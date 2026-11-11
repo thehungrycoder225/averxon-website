@@ -1,0 +1,54 @@
+{
+  "version": "2.1.0",
+  "licensePolicy": "approved_first_party_only",
+  "scenes": [
+    {
+      "sceneKey": "SCENE_AWAKENING",
+      "chapterId": "awakening",
+      "mode": "procedural_r3f",
+      "posterFallback": "/media/posters/ch1-awakening.svg",
+      "maxTrianglesHigh": 12000,
+      "maxTrianglesLow": 2400
+    },
+    {
+      "sceneKey": "SCENE_HERITAGE",
+      "chapterId": "heritage",
+      "mode": "procedural_r3f",
+      "posterFallback": "/media/posters/ch2-heritage.svg",
+      "maxTrianglesHigh": 8000,
+      "maxTrianglesLow": 1800
+    },
+    {
+      "sceneKey": "SCENE_FOUR_WORLDS",
+      "chapterId": "four-worlds",
+      "mode": "procedural_r3f",
+      "posterFallback": "/media/posters/ch3-four-worlds.svg",
+      "maxTrianglesHigh": 16000,
+      "maxTrianglesLow": 3600
+    },
+    {
+      "sceneKey": "SCENE_MILESTONES",
+      "chapterId": "milestones",
+      "mode": "procedural_r3f",
+      "posterFallback": "/media/posters/ch4-milestones.svg",
+      "maxTrianglesHigh": 6000,
+      "maxTrianglesLow": 1200
+    },
+    {
+      "sceneKey": "SCENE_CREATION",
+      "chapterId": "creation",
+      "mode": "procedural_r3f",
+      "posterFallback": "/media/posters/ch5-creation.svg",
+      "maxTrianglesHigh": 10000,
+      "maxTrianglesLow": 2400
+    },
+    {
+      "sceneKey": "SCENE_FUTURE",
+      "chapterId": "future",
+      "mode": "procedural_r3f",
+      "posterFallback": "/media/posters/ch6-future.svg",
+      "maxTrianglesHigh": 8000,
+      "maxTrianglesLow": 1600
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" fill="none" role="img" aria-label="Awakening chapter poster: Bakunawa lunar eclipse">
+  <rect width="1920" height="1080" fill="#0B0D14"/>
+  <radialGradient id="nebula1" cx="65%" cy="45%" r="55%">
+    <stop offset="0%" stop-color="#8056D9" stop-opacity="0.35"/>
+    <stop offset="45%" stop-color="#211C35" stop-opacity="0.25"/>
+    <stop offset="100%" stop-color="#0B0D14" stop-opacity="0"/>
+  </radialGradient>
+  <rect width="1920" height="1080" fill="url(#nebula1)"/>
+  <circle cx="1240" cy="480" r="240" stroke="#D8AE63" stroke-width="3" stroke-opacity="0.65"/>
+  <circle cx="1240" cy="480" r="285" stroke="#8056D9" stroke-width="1.5" stroke-dasharray="12 8" stroke-opacity="0.5"/>
+  <circle cx="1240" cy="480" r="210" fill="#0B0D14" stroke="#D8AE63" stroke-width="6"/>
+  <path d="M980 480 C1040 280, 1440 280, 1500 480 C1440 680, 1040 680, 980 480 Z" stroke="#D8AE63" stroke-width="2" stroke-opacity="0.35" fill="none"/>
+</svg>

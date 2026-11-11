@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 44" fill="none" role="img" aria-label="AVERXON">
+  <title>AVERXON — Coding the Culture. Creating the Future.</title>
+  <defs>
+    <!-- Provisional v2.2 Logo-Derived Gradient (#FDB001 -> #FF6924 -> #8A45CD -> #087BE6 -> #01BEF5) -->
+    <linearGradient id="avxBrandGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FDB001"/>
+      <stop offset="22%" stop-color="#FF6924"/>
+      <stop offset="50%" stop-color="#8A45CD"/>
+      <stop offset="78%" stop-color="#087BE6"/>
+      <stop offset="100%" stop-color="#01BEF5"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="4" width="36" height="36" rx="9" fill="#030237" stroke="url(#avxBrandGrad)" stroke-width="2.2"/>
+  <path d="M20 10 L30 32 L20 26 L10 32 Z" fill="url(#avxBrandGrad)"/>
+  <text x="50" y="30" fill="#F5F5FA" font-family="Poppins, sans-serif" font-weight="700" font-size="24" letter-spacing="4">AVERXON</text>
+  <circle cx="264" cy="26" r="3.5" fill="#01BEF5"/>
+</svg>

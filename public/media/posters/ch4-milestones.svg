@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" fill="none" role="img" aria-label="Milestones chapter poster: Golden constellation">
+  <rect width="1920" height="1080" fill="#0B0D14"/>
+  <polyline points="360,760 760,580 1180,420 1560,260" stroke="#D8AE63" stroke-width="2.5" stroke-dasharray="8 8"/>
+  <circle cx="360" cy="760" r="18" fill="#D8AE63"/>
+  <circle cx="760" cy="580" r="22" fill="#8056D9" stroke="#D8AE63" stroke-width="3"/>
+  <circle cx="1180" cy="420" r="20" fill="#D8AE63"/>
+  <circle cx="1560" cy="260" r="24" fill="#956DEB" stroke="#D8AE63" stroke-width="3"/>
+</svg>

@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.2.0",
+  "documentId": "AVX-DS-022",
+  "policy": "No asset is marked isApproved: true by default. Generic 3D shapes must never impersonate completed game models.",
+  "ingestedReferenceCount": 9,
+  "gamesWithReferences": [
+    "chronicles-of-babaylan",
+    "habulan",
+    "myth-mayhem"
+  ],
+  "gamesAwaitingReferences": [],
+  "brandLogoReferenceSupplied": true,
+  "brandLogoSource": "/assets/brand/averxon-studios-logo.jpg",
+  "assets": [
+    {
+      "id": "ref-brand-averxon-studios-logo",
+      "projectId": "brand-averxon",
+      "type": "reference",
+      "source": "/assets/brand/averxon-studios-logo.jpg",
+      "originalReferencePath": "image reference/averxon-studios-logo.jpg",
+      "fileSizeBytes": 23760,
+      "dimensions": { "width": 1024, "height": 682 },
+      "recommendedStrategy": "layered_2_5d_poster_parallax",
+      "visualReviewStatus": "reference_locked_2d_only",
+      "isApproved": false
+    },
+    {
+      "id": "ref-babaylan-bakunawa-keyart",
+      "projectId": "chronicles-of-babaylan",
+      "type": "poster",
+      "source": "/assets/games/chronicles-of-babaylan/posters/bakunawa-key-art.png",
+      "originalReferencePath": "image reference/chronicles-of-bakunawa-bakunawa.png",
+      "fileSizeBytes": 3248554,
+      "dimensions": { "width": 1024, "height": 1536 },
+      "recommendedStrategy": "layered_2_5d_poster_parallax",
+      "visualReviewStatus": "reference_locked_2d_only",
+      "isApproved": false
+    },
+    {
+      "id": "ref-babaylan-remontada-turnaround",
+      "projectId": "chronicles-of-babaylan",
+      "type": "reference",
+      "source": "/assets/games/chronicles-of-babaylan/references/babaylan-turnaround.png",
+      "originalReferencePath": "image reference/chronicles-of-bakunawa-babaylan.png",
+      "fileSizeBytes": 3201632,
+      "dimensions": { "width": 1024, "height": 1536 },
+      "recommendedStrategy": "controlled_manual_3d_character_workflow",
+      "visualReviewStatus": "reference_locked_2d_only",
+      "isApproved": false
+    },
+    {
+      "id": "ref-habulan-logo-transparent",
+      "projectId": "habulan",
+      "type": "poster",
+      "source": "/assets/games/habulan/posters/habulan-logo-transparent.png",
+      "originalReferencePath": "image reference/habulan-logo-transparent.png",
+      "fileSizeBytes": 1363529,
+      "dimensions": { "width": 2000, "height": 2000 },
+      "recommendedStrategy": "layered_2_5d_poster_parallax",
+      "visualReviewStatus": "reference_locked_2d_only",
+      "isApproved": false
+    },
+    {
+      "id": "ref-habulan-ken-ken",
+      "projectId": "habulan",
+      "type": "reference",
+      "source": "/assets/games/habulan/references/habulan-ken-ken.jpg",
+      "originalReferencePath": "image reference/habulan-ken-ken.jpg",
+      "fileSizeBytes": 130545,
+      "dimensions": { "width": 1024, "height": 1536 },
+      "recommendedStrategy": "approved_existing_3d_glb",
+      "visualReviewStatus": "reference_locked_2d_only",
+      "isApproved": false
+    },
+    {
+      "id": "ref-habulan-nining-joan",
+      "projectId": "habulan",
+      "type": "reference",
+      "source": "/assets/games/habulan/references/habulan-nining-joan.jpg",
+      "originalReferencePath": "image reference/habulan-nining-joan.jpg",
+      "fileSizeBytes": 143656,
+      "dimensions": { "width": 1024, "height": 1536 },
+      "recommendedStrategy": "approved_existing_3d_glb",
+      "visualReviewStatus": "reference_locked_2d_only",
+      "isApproved": false
+    },
+    {
+      "id": "ref-myth-mayhem-manananggal-card",
+      "projectId": "myth-mayhem",
+      "type": "poster",
+      "source": "/assets/games/myth-mayhem/posters/myth-mayhem-card.png",
+      "originalReferencePath": "image reference/myth-mayhem-card.png",
+      "fileSizeBytes": 2453966,
+      "dimensions": { "width": 1067, "height": 1474 },
+      "recommendedStrategy": "img2threejs_procedural_prop_candidate",
+      "visualReviewStatus": "reference_locked_2d_only",
+      "isApproved": false
+    },
+    {
+      "id": "ref-myth-mayhem-manananggal-front",
+      "projectId": "myth-mayhem",
+      "type": "reference",
+      "source": "/assets/games/myth-mayhem/references/myth-mayhem-manananggal.png",
+      "originalReferencePath": "image reference/myth-mayhem-manananggal.png",
+      "fileSizeBytes": 1380308,
+      "dimensions": { "width": 1086, "height": 1448 },
+      "recommendedStrategy": "controlled_manual_3d_character_workflow",
+      "visualReviewStatus": "reference_locked_2d_only",
+      "isApproved": false
+    },
+    {
+      "id": "ref-myth-mayhem-manananggal-3d-turnaround",
+      "projectId": "myth-mayhem",
+      "type": "reference",
+      "source": "/assets/games/myth-mayhem/references/myth-mayhem-manananggal-3d-view.png",
+      "originalReferencePath": "image reference/myth-mayhem-manananggal_3D_View.png",
+      "fileSizeBytes": 1862730,
+      "dimensions": { "width": 1448, "height": 1086 },
+      "recommendedStrategy": "approved_existing_3d_glb",
+      "visualReviewStatus": "reference_locked_2d_only",
+      "isApproved": false
+    }
+  ]
+}

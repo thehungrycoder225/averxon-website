@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" fill="none" role="img" aria-label="Heritage chapter poster: Three cultural monoliths">
+  <rect width="1920" height="1080" fill="#0B0D14"/>
+  <rect x="380" y="260" width="260" height="580" rx="12" fill="#171B2A" stroke="#D8AE63" stroke-width="2"/>
+  <rect x="830" y="200" width="260" height="640" rx="12" fill="#211C35" stroke="#8056D9" stroke-width="2.5"/>
+  <rect x="1280" y="260" width="260" height="580" rx="12" fill="#171B2A" stroke="#D8AE63" stroke-width="2"/>
+  <polygon points="510,160 550,200 510,240 470,200" stroke="#D8AE63" stroke-width="2.5" fill="#0B0D14"/>
+  <polygon points="960,100 1005,145 960,190 915,145" stroke="#956DEB" stroke-width="2.5" fill="#0B0D14"/>
+  <polygon points="1410,160 1450,200 1410,240 1370,200" stroke="#D8AE63" stroke-width="2.5" fill="#0B0D14"/>
+</svg>

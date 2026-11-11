@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" fill="none" role="img" aria-label="Four Worlds chapter poster: Four spatial portals">
+  <rect width="1920" height="1080" fill="#0B0D14"/>
+  <rect x="200" y="220" width="320" height="640" rx="16" fill="#171B2A" stroke="#D8AE63" stroke-width="2"/>
+  <rect x="600" y="220" width="320" height="640" rx="16" fill="#211C35" stroke="#8056D9" stroke-width="2"/>
+  <rect x="1000" y="220" width="320" height="640" rx="16" fill="#171B2A" stroke="#956DEB" stroke-width="2"/>
+  <rect x="1400" y="220" width="320" height="640" rx="16" fill="#211C35" stroke="#D8AE63" stroke-width="2"/>
+</svg>

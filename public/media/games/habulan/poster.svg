@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" fill="none" role="img" aria-label="Habulan: The Curse of the 5th Bell key art poster">
+  <rect width="1600" height="1000" fill="#0B0D14"/>
+  <circle cx="800" cy="360" r="280" stroke="#8056D9" stroke-width="2" stroke-opacity="0.4"/>
+  <circle cx="800" cy="360" r="220" stroke="#D8AE63" stroke-width="2" stroke-opacity="0.6"/>
+  <path d="M640 880 L640 340 A160 160 0 0 1 960 340 L960 880 Z" fill="#171B2A" stroke="#343849" stroke-width="4"/>
+  <polygon points="800,260 865,430 735,430" fill="#D8AE63"/>
+</svg>

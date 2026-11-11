@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" fill="none" role="img" aria-label="Creation chapter poster: Concept to 3D to Gameplay">
+  <rect width="1920" height="1080" fill="#0B0D14"/>
+  <line x1="640" y1="140" x2="640" y2="940" stroke="#343849" stroke-width="2"/>
+  <line x1="1280" y1="140" x2="1280" y2="940" stroke="#343849" stroke-width="2"/>
+  <circle cx="320" cy="540" r="150" stroke="#D8AE63" stroke-width="2" stroke-dasharray="6 6"/>
+  <polygon points="960,360 1120,540 960,720 800,540" stroke="#8056D9" stroke-width="2.5" fill="#171B2A"/>
+  <circle cx="1600" cy="540" r="150" fill="#211C35" stroke="#D8AE63" stroke-width="4"/>
+</svg>
